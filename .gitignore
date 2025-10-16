@@ -1,0 +1,13 @@
+*.zip
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+.venv/
+model/vlstm_92.h5
